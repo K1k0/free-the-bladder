@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Free The Bladder (after preview stopped working) ",
+  "description": "A mobile-friendly platform that helps users find free, accessible toilets in London via community-submitted tips for Free The Bladder.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
